@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Capstonepro mobile_app</string>
+    <string name="pc_name">PC Name</string>
+    <string name="enter_pc_name">Enter PC Name</string>
+    <string name="connect">Connect</string>
+    <string name="successfully_connected">Successfully Connected!!</string>
+    <string name="get_screenshot">Get Screenshot</string>
+    <string name="new_pc">new PC</string>
+    <string name="todo">TODO</string>
+    <string name="add_pc">ADD PC</string>
+    <string name="ip_address">IP Address</string>
+    <string name="name_of_pc">Name of PC</string>
+    <string name="username">Username</string>
+    <string name="user_login">User Login</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="pc_remote">PC Remote</string>
+    <string name="monitoring">Monitoring</string>
+
+    <string name="enter_ip_address">Enter IP Address</string>
+    <string name="add_new_pc_to_list">Add New PC to List</string>
+</resources>
